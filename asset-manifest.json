@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/ignite-dtmoney/static/js/main.a69f8494.chunk.js",
+    "main.js.map": "/ignite-dtmoney/static/js/main.a69f8494.chunk.js.map",
+    "runtime-main.js": "/ignite-dtmoney/static/js/runtime-main.8007589d.js",
+    "runtime-main.js.map": "/ignite-dtmoney/static/js/runtime-main.8007589d.js.map",
+    "static/js/2.5ad7a05b.chunk.js": "/ignite-dtmoney/static/js/2.5ad7a05b.chunk.js",
+    "static/js/2.5ad7a05b.chunk.js.map": "/ignite-dtmoney/static/js/2.5ad7a05b.chunk.js.map",
+    "index.html": "/ignite-dtmoney/index.html",
+    "static/js/2.5ad7a05b.chunk.js.LICENSE.txt": "/ignite-dtmoney/static/js/2.5ad7a05b.chunk.js.LICENSE.txt",
+    "static/media/income.d58effe2.svg": "/ignite-dtmoney/static/media/income.d58effe2.svg",
+    "static/media/logo.614d71d1.svg": "/ignite-dtmoney/static/media/logo.614d71d1.svg",
+    "static/media/outcome.6eb96d30.svg": "/ignite-dtmoney/static/media/outcome.6eb96d30.svg",
+    "static/media/total.e90c2d1e.svg": "/ignite-dtmoney/static/media/total.e90c2d1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8007589d.js",
+    "static/js/2.5ad7a05b.chunk.js",
+    "static/js/main.a69f8494.chunk.js"
+  ]
+}
