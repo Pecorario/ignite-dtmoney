@@ -55,34 +55,34 @@ export const TransactionTypeContainer = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0.5rem;
+`;
 
-  button { 
-    height: 4rem;
-    border: 1px solid #d7d7d7;
-    border-radius: 0.25rem;
-    
-    background: transparent;
+export const RadioBox = styled.button`
+  height: 4rem;
+  border: 1px solid #d7d7d7;
+  border-radius: 0.25rem;
+  
+  background: transparent;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-    transition: border-color 0.2s;
+  transition: border-color 0.2s;
 
-    &:hover {
-      border-color: ${darken(0.1, '#d7d7d7')}; //vai escurecer a cor da borda(#d7d7d7) em 10% (0.1) 
-    }
+  &:hover {
+    border-color: ${darken(0.1, '#d7d7d7')}; //vai escurecer a cor da borda(#d7d7d7) em 10% (0.1) 
+  }
 
-    img {
-      width: 20px;
-      height: 20px;
-    }
+  img {
+    width: 20px;
+    height: 20px;
+  }
 
-    span {
-      display: inline-block; // para conseguir dar margem
-      margin-left: 1rem;
-      font-size: 1rem;
-      color: var(--text-title);
-    }
+  span {
+    display: inline-block; // para conseguir dar margem
+    margin-left: 1rem;
+    font-size: 1rem;
+    color: var(--text-title);
   }
 `;
