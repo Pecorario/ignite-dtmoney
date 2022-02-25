@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div`
   margin-top: 4rem;
@@ -7,7 +7,7 @@ export const Container = styled.div`
     width: 100%;
     border-spacing: 0 0.5rem;
 
-    th { 
+    th {
       color: var(--text-body);
       font-weight: 400;
       padding: 1rem 2rem;
@@ -15,7 +15,7 @@ export const Container = styled.div`
       line-height: 1.5rem;
     }
 
-    td { 
+    td {
       padding: 1rem 2rem;
       border: 0;
       background: var(--shape);
@@ -27,7 +27,7 @@ export const Container = styled.div`
       }
 
       &.deposit {
-        color: var(--gree);
+        color: var(--green);
       }
 
       &.withdraw {
